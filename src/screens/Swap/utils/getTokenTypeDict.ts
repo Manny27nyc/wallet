@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SwapToTokenListResult, TokenType } from '@/api/types';
 import { getNetworkFilterFromCaip } from '@/components/NetworkFilter/getNetworkFilterFromCaip';
 import type { NETWORK_FILTER } from '@/components/NetworkFilter/types';

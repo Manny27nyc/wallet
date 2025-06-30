@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Transaction } from '@/api/types';
 import type { RealmAssetMetadata } from '@/realm/assetMetadata';
 import type { RealmToken } from '@/realm/tokens';

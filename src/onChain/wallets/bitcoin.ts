@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as secp256k1 from '@bitcoinerlab/secp256k1';
 import BigNumber from 'bignumber.js';
 

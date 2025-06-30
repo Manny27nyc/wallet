@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const syncUI = () => new Promise(r => requestAnimationFrame(r));
 
 export const runAfterUISync = async <T>(callback: (...args: unknown[]) => T, syncFrames = 1) => {

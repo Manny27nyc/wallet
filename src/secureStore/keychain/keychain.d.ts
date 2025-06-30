@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { getFromKeychain, getWithBiometrics } from './keychain';
 import type { isSecureDevice as isSecureDeviceAndroid, setInKeychain as setInKeychainAndroid } from './keychain.android';
 import type { isSecureDevice as isSecureDeviceIOS, setInKeychain as setInKeychainIOS } from './keychain.ios';

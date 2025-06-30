@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Platform } from 'react-native';
 import Keychain from 'react-native-keychain';
 

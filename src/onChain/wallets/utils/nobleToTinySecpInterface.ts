@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { schnorr, secp256k1 } from '@noble/curves/secp256k1';
 
 import type { TinySecp256k1Interface as TinySecp256k1InterfaceBip } from 'bip32';

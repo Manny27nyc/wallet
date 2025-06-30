@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FeatureFlagsSchema } from '@/unencrypted-realm/featureFlags/schema';
 import { onMigration } from '@/unencrypted-realm/migrations/onMigration';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { TransactionEffect } from '@/api/types';
 import type { TransactionData } from '@/realm/transactions/getTransactionMetadata';
 import { getTransactionMetadata } from '@/realm/transactions/getTransactionMetadata';

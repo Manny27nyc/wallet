@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = {
   extends: ['plugin:react/recommended', 'plugin:jsx-a11y/recommended', 'plugin:react/jsx-runtime', 'plugin:react-hooks/recommended'],
   plugins: ['react', 'react-hooks', 'jsx-a11y'],

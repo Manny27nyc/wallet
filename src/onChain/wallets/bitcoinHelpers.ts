@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import b58 from 'bs58check';
 import { flatMap } from 'lodash';
 

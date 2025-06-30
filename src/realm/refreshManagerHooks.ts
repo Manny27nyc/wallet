@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import EventEmitter from 'eventemitter3';
 import { debounce } from 'lodash';
 import { useCallback, useEffect, useRef } from 'react';

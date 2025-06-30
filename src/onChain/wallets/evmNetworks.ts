@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AvascanCChain, EVMNetwork, Etherscan } from './evm';
 
 import loc from '/loc';

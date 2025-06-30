@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useQuery } from '../RealmContext';
 import { getWalletsForMutations, useRealmWallets } from '../wallets';
 

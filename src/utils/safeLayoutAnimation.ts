@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LayoutAnimation, Platform } from 'react-native';
 
 export const safelyAnimateLayout = () => {

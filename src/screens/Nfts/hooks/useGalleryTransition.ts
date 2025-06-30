@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clamp } from 'lodash';
 import { useMemo, useState } from 'react';
 import { useSafeAreaFrame } from 'react-native-safe-area-context';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { adaptEIP712ToDefinitionList } from './adaptEIP712ToDefinitionList';
 export { adaptMessageToEVMMessageSimulationInput } from './adaptMessageToEVMMessageSimulationInput';
 export { adaptToGenericMessage } from './adaptToGenericMessage';

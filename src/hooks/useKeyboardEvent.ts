@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { KeyboardEventListener, KeyboardEventName } from 'react-native';
 
 import { useEffect } from 'react';

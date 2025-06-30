@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { parseISO } from 'date-fns';
 import { NativeModules, Platform } from 'react-native';
 

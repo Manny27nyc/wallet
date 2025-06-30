@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Asset, Vault } from '@/api/types';
 import type { CardData } from '@/components/DepositOptionsCarousel/DepositOptionsCarousel.types';
 

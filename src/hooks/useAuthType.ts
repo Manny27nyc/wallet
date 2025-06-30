@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AuthenticationType, SecurityLevel } from 'expo-local-authentication';
 import { useEffect, useMemo, useState } from 'react';
 

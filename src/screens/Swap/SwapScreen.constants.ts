@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getNetworkFilterFromCaip } from '@/components/NetworkFilter/getNetworkFilterFromCaip';
 import type { UINetworkFilter } from '@/components/NetworkFilter/types';
 import { Networks } from '@/onChain/wallets/registry';

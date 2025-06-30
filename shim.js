@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'react-native-get-random-values';
 import 'react-native-url-polyfill/auto';
 

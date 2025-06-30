@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Localization from 'react-localization';
 
 import de_DE from './de-DE.json';

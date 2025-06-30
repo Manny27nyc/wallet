@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useMemo, useRef } from 'react';
 
 import { fetchAssetMarketData } from '@/api/fetchAssetMarketData';

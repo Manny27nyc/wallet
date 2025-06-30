@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useMemo, useState } from 'react';
 
 import type { AnalyseAddressResult } from '@/api/types';

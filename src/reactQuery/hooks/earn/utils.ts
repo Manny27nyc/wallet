@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import memoize from 'lodash/memoize';
 
 import type { BestVaultResult, DepositOptionsResult, ProtocolWithPositions, Vault } from '@/api/types';

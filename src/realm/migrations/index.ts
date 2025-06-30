@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './migrationsSchemaVersion18';
 export * from './migrationsSchemaVersion19';
 export * from './migrationsSchemaVersion20';

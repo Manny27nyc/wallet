@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmishWallet, TotalFee } from '@/onChain/wallets/base';
 import { getImplForWallet } from '@/onChain/wallets/registry';
 import type { Currency } from '@/screens/Settings/currency';

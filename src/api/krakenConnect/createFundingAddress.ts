@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getUniqueId } from 'react-native-device-info';
 
 import { type PrivateApiSecureParams, fetchKrakenPrivateApi } from '@/api/krakenConnect/base/fetchKrakenPrivateApi';

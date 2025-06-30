@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import sortBy from 'lodash/sortBy';
 
 export function sortWithKrakenFirst(list: string[], moveKrakenToFront = true) {

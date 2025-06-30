@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { throttle } from 'lodash';
 import { useCallback, useRef, useState } from 'react';
 

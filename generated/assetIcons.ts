@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import i1 from 'kraken-wallet-cryptoicons/src/zrx.svg';
 import i2 from 'kraken-wallet-cryptoicons/src/1inch.svg';
 import i3 from 'kraken-wallet-cryptoicons/src/aave.svg';

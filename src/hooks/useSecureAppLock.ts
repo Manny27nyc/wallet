@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect, useState } from 'react';
 import { Alert, Platform } from 'react-native';
 

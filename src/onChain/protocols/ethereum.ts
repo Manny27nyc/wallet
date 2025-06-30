@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Interface } from 'ethers';
 
 const CRYPTOKITTIES_ADDRESS = '0x06012c8cf97bead5deae237070f9587f8e7a266d';

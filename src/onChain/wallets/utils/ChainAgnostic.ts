@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class ChainAgnostic {
   static NETWORK_ARBITRUM = 'eip155:42161';
   static NETWORK_BASE = 'eip155:8453';

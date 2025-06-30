@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SupportedPublicApiPaths } from './supportedPaths';
 
 import { KRAKEN_API_URI } from '/config';

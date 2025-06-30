@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { AssetMetadata } from '@/realm/assetMetadata';
 
 export interface KrakenAssetBalance {

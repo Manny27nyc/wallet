@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StyleSheet } from 'react-native';
 
 export const commonStyles = StyleSheet.create({

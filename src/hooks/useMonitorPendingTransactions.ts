@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect, useRef } from 'react';
 
 import { fetchWithdrawStatus } from '@/api/krakenConnect/fetchWithdrawStatus';

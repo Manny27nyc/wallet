@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum NETWORK_FILTER {
   ethereum = 'eip155:1/',
   polygon = 'eip155:137/',

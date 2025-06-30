@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Networks, isTestNet } from '@/onChain/wallets/registry';
 import { type SecuredKeychainContext } from '@/secureStore/SecuredKeychainProvider';
 

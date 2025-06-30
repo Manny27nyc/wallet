@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum WALLET_CONNECT_ETH_SIGN_TYPES {
   PERSONAL_SIGN = 'personal_sign',
   SIGN = 'eth_sign',

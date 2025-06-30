@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { startOfDay } from 'date-fns';
 import groupBy from 'lodash/groupBy';
 

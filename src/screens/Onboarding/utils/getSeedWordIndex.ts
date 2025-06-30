@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getDefaultWordlist, wordlists } from 'bip39';
 
 export const getSeedWordIndex = () => {

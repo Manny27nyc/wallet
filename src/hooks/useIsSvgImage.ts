@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useState } from 'react';
 
 import { isContentTypeSvg, isSvgImage } from '@/utils/isSvgImage';

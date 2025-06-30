@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { FeeOptionKind } from '@/api/types';
 import type { TotalFee } from '@/onChain/wallets/base';
 import type { RealmNft } from '@/realm/nfts';

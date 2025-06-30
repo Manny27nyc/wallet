@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { groupBy, uniqWith } from 'lodash';
 
 import type { AddressAnalysisWarning, AnalyseAddressResult } from '@/api/types';

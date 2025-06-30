@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ChainAgnostic } from '@/onChain/wallets/utils/ChainAgnostic';
 
 export const SOLANA_MAINNET_ID_WRONG = 'solana:4sGjMW1sUnHzSxGspuhpqLDx6wiyjNtZ';

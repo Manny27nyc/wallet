@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export type KrakenConnectNavigationParams = {
   code?: string | null;
   state?: string | null;

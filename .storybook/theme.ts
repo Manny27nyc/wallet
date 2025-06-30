@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Theme } from '@storybook/react-native';
 import { SuperDarkTheme } from '../src/theme/themes';
 

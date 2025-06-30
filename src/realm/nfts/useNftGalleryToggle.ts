@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useLocalStateUpdate } from '@/hooks/useLocalStateUpdate';
 
 import { useNftsMutations } from './useNftsMutations';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { chunk } from 'lodash';
 
 import type { RealmishWallet } from '@/onChain/wallets/base';

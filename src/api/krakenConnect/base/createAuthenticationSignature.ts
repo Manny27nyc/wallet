@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto from 'crypto';
 
 export function createAuthenticationSignature(apiPrivateKey: string, path: string, nonce: string, apiPostBodyData: string) {

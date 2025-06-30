@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getHarmony } from './base/apiFactory.ts';
 
 import { handleError } from '/helpers/errorHandler.ts';

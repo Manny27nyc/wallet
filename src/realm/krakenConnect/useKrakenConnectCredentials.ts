@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useObject } from '../RealmContext';
 
 import { KRAKEN_CONNECT_CREDENTIALS_REALM_KEY, type KrakenConnectCredentials, REALM_TYPE_KRAKEN_CONNECT_CREDENTIALS } from './schema';

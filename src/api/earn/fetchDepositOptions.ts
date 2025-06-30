@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { DepositOptionsResult } from '@/api/types';
 import { EVMNetwork } from '@/onChain/wallets/evm';
 import { Networks } from '@/onChain/wallets/registry';

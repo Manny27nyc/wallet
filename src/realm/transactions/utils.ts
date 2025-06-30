@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Transaction } from '@/api/types';
 
 export const getCombinedTransactionId = (walletId: string, txId: string) => `${walletId}:${txId}`;

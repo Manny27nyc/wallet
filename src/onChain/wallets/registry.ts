@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { entries, fromPairs, values } from 'lodash';
 
 import type { DefiNetwork } from '@/realm/defi';

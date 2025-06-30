@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isTestNet } from '@/onChain/wallets/registry';
 import { useIsTestnetEnabled } from '@/realm/settings';
 

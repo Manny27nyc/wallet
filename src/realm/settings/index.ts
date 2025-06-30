@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './useSettingsMutations';
 export * from './useLanguage';
 export * from './useSettingsByKey';

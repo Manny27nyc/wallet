@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { StatusBarStyle } from 'react-native';
 
 import { DarkTheme, useTheme as useThemeBase } from '@react-navigation/native';

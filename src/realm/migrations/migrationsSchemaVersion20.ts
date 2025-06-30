@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Realm from 'realm';
 
 import { REALM_TYPE_SETTINGS, RealmSettingsKey } from '../settings';

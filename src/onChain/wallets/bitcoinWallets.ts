@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as bitcoin from 'bitcoinjs-lib';
 
 import { BitcoinElectrumTransport, BitcoinNetwork, deriveRoot } from './bitcoin';

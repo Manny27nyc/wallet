@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { resolveAddressToEnsName } from '@/api/fetchEnsName';
 
 import loc from '/loc';

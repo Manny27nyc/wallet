@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
 import { useCallback } from 'react';
 import { useWindowDimensions } from 'react-native';

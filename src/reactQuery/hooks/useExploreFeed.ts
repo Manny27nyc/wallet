@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useQuery } from '@tanstack/react-query';
 
 import { fetchExploreFeed } from '@/api/fetchExploreFeed';

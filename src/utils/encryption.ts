@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import argon2 from 'react-native-argon2';
 
 import crypto from 'crypto';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmishWallet } from '@/onChain/wallets/base';
 import { DogecoinNetwork } from '@/onChain/wallets/dogecoin';
 import { getImplForWallet } from '@/onChain/wallets/registry';

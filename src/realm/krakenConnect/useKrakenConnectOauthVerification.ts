@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useObject } from '../RealmContext';
 
 import { type KrakenConnectOauthVerification, REALM_TYPE_KRAKEN_OAUTH_VERIFICATION } from './schema';

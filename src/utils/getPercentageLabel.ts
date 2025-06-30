@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Currency } from '@/screens/Settings/currency';
 import type { Theme } from '@/theme/themes';
 

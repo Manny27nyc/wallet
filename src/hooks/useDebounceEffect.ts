@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { DependencyList, EffectCallback } from 'react';
 
 import { debounce } from 'lodash';

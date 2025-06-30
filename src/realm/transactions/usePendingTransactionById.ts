@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useObject } from '../RealmContext';
 
 import { REALM_TYPE_PENDING_TRANSACTION } from './schema';

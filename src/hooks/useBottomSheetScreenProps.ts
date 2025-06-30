@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo, useRef } from 'react';
 
 import type { BottomSheetRef } from '@/components/BottomSheet';

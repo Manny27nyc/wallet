@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useWhatsNewQueue } from '@/hooks/whatsNewHooks/useWhatsNewQueue';
 
 import { useAppInitEffect } from './useAppInitEffect';

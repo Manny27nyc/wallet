@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class Timeout extends Error {}
 
 export const timeout = <T>(prom: Promise<T>, time: number): Promise<T> =>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useMemo } from 'react';
 
 import type { KrakenAsset, KrakenAssetSupported } from '@/api/krakenConnect/types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { AssetMetadata, AssetReputation } from '@/realm/assetMetadata';
 import { getAssetMetadata, useAssetMetadata } from '@/realm/assetMetadata';
 

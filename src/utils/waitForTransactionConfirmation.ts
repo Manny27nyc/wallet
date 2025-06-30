@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EVMHarmonyTransport, EVMNetwork } from '@/onChain/wallets/evm';
 import { getImplForWallet } from '@/onChain/wallets/registry';
 import type { RealmWallet } from '@/realm/wallets';

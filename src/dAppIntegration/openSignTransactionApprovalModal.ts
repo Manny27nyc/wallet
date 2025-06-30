@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { EVMHarmonyTransport, EVMNetwork } from '@/onChain/wallets/evm';
 import { type WalletStorage, getWalletStorage } from '@/onChain/wallets/walletState';
 import { TRANSACTION_TYPES } from '@/realm/transactions/const';

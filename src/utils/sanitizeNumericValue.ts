@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const sanitizeNumericValue = (value: string) => {
   let newValue = value.replace(',', '.');
 

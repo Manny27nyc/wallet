@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SessionProposal } from '@/screens/ConnectApp/types';
 
 import { getChainsEip155, getChainsSolana } from './getChainsForSessionNamespace';

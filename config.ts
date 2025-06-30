@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Config from 'react-native-config';
 
 export const DEFAULT_HARMONY_BASE_URI = Config.DEFAULT_HARMONY_BASE_URI;

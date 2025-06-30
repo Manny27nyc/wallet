@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { start, prepareStories, getProjectAnnotations } from '@storybook/react-native';
 
 import '@storybook/addon-ondevice-controls/register';

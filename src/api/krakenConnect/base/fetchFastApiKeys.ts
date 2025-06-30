@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { KRAKEN_CONNECT_PERMISSIONS } from '../consts';
 
 import { KRAKEN_API_URI, KRAKEN_CONNECT_CLIENT_ID, URLs } from '/config';

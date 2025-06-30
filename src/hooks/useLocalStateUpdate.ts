@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isEqual } from 'lodash';
 import { useEffect, useRef, useState } from 'react';
 

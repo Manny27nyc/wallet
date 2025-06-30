@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { REALM_TYPE_TRANSACTION_NOTES } from '../transactionNotes';
 
 import { REALM_TYPE_WALLET } from '../wallets';

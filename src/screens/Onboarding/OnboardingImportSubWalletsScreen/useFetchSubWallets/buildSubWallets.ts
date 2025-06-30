@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fetchEnsOwnership } from '@/api/fetchEnsOwnership';
 import { ChainAgnostic } from '@/onChain/wallets/utils/ChainAgnostic';
 

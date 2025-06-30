@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmWalletConnectTopics } from '@/realm/walletConnectTopics';
 import { REALM_TYPE_WALLET_CONNECT_TOPICS } from '@/realm/walletConnectTopics';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo, useState } from 'react';
 
 import { Gesture } from 'react-native-gesture-handler';

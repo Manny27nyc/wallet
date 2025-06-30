@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const TYPE_ERC721 = 'erc721';
 export const TYPE_ERC1155 = 'erc1155';
 

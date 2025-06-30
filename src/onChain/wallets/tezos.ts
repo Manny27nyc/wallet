@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint @typescript-eslint/no-unused-vars: 0 */
 
 import { InMemorySigner } from '@taquito/signer';

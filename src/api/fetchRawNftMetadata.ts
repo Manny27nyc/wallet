@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getHarmony } from '@/api/base/apiFactory';
 import { fetchClient } from '@/api/base/fetchClient';
 import type { NftWithRawMetadata, RawNftMetadata } from '@/api/fetchNfts';

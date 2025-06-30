@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { showToast } from '@/components/Toast';
 import { Routes } from '@/Routes';
 import type { Currency } from '@/screens/Settings/currency/types';

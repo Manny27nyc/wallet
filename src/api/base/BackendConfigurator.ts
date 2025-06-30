@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { DEFAULT_GROUNDCONTROL_BASE_URI, DEFAULT_HARMONY_BASE_URI } from '/config';

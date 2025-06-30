@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Source } from 'react-native-fast-image';
 
 const avatarImages: Source[] = [

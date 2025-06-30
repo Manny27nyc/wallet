@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NETWORK_FILTER } from './types';
 
 export function getNetworkFilterFromCaip(caipId: string): NETWORK_FILTER {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { REALM_TYPE_ACCOUNT } from '../accounts/schema';
 import { useQuery } from '../RealmContext';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmishWallet } from '@/onChain/wallets/base';
 import type { SolanaHarmonyTransport, SolanaNetwork } from '@/onChain/wallets/solana';
 import type { WalletStorage } from '@/onChain/wallets/walletState';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useIsFocused } from '@react-navigation/native';
 import { useEffect, useMemo } from 'react';
 

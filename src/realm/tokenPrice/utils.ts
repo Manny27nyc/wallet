@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { REPUTATION, getReputationFromMetadata } from '@/hooks/useReputation';
 import { ChainAgnostic } from '@/onChain/wallets/utils/ChainAgnostic';
 import { Currency } from '@/screens/Settings/currency';

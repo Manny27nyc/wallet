@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { TokenPriceHighLow, TokenPriceHighLowItem, TokenPriceHistoryItem } from '@/realm/tokenPrice';
 import { generateChartPlaceholder } from '@/utils/generateChartPlaceholder';
 

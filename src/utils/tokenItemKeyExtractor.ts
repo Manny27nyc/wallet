@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmToken } from '@/realm/tokens';
 
 import { isRealmObject } from './isRealmObject';

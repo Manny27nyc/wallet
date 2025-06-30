@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isNetworkCoin } from '@/onChain/wallets/registry';
 
 import type { Item } from '../types';

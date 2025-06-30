@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { StyleProp, ViewStyle } from 'react-native';
 
 import type { ExploreCardSize, ExploreLink } from '@/api/types';

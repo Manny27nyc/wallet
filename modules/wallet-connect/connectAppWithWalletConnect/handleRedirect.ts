@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Linking, NativeModules, Platform } from 'react-native';
 
 import { showToast } from '@/components/Toast';

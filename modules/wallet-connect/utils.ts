@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SimulationResult } from '@/api/types';
 import type { Network } from '@/onChain/wallets/base';
 import { EVMHarmonyTransport, EVMNetwork } from '@/onChain/wallets/evm';

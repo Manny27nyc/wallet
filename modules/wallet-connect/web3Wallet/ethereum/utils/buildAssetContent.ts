@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fetchPriceForToken } from '@/api/fetchPriceForToken';
 import { fetchTokenMetadata } from '@/api/fetchTokenMetadata';
 import type { TransactionAmountProps } from '@/components/Transaction/TransactionAmount';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export async function retryPromise<T>(operation: () => Promise<T>, maxRetries = 3, retryDelayMs = 25): Promise<T | false> {
   let retries = 0;
   while (retries < maxRetries) {

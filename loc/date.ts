@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { de, enGB, enUS, es, fr, it, nl, pl, ptBR, ru, tr, uk, vi } from 'date-fns/locale';
 
 import { getCurrentLanguage } from './';

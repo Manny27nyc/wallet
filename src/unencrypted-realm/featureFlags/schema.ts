@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { ObjectSchema } from 'realm';
 
 export const NEW_NON_EVM_NETWORKS = [] as const;

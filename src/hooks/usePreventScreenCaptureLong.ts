@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as ScreenCapture from 'expo-screen-capture';
 import { useEffect } from 'react';
 import Config from 'react-native-config';

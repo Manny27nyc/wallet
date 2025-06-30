@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { QueryClient } from '@tanstack/react-query';
 
 export const DEFAULT_CACHE_TIME = 10 * 1000;

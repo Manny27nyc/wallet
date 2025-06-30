@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './ContractAddress';
 export * from './GeneralMarketData';
 export * from './PercentageChange';

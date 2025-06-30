@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isValidExploreContent } from '@/screens/Explore/utils/isValidExploreContent';
 
 import { getHarmony } from './base/apiFactory';

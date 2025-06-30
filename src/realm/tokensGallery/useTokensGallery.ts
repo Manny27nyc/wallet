@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useTokens } from '@/realm/tokens';
 
 export const useTokensGallery = () => {

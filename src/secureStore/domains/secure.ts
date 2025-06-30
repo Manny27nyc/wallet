@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import Keychain, { ACCESSIBLE } from 'react-native-keychain';
 import Realm from 'realm';

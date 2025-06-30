@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { WALLET_CONNECT_ETH_SIGN_TYPES } from '../types';
 
 import type { EIP712 } from '../types';

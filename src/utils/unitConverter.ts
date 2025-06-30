@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SuperBigNumber } from '@/utils/SuperBigNumber';
 
 import type BigNumber from 'bignumber.js';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { omit } from 'lodash';
 import { type RefObject, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ZodError } from 'zod';

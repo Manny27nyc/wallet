@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { BestVaultResult } from '@/api/types';
 
 import type { ChainAgnostic } from '@/onChain/wallets/utils/ChainAgnostic';

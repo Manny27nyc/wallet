@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function interpolateDataset(dataset: number[], targetLength: number): number[] {
   const originalLength = dataset.length;
   if (originalLength === targetLength) {

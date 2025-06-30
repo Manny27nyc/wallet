@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import sortBy from 'lodash/sortBy';
 
 import { Currency } from '@/screens/Settings/currency';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { EVMFeeOption } from '@/api/types';
 import { showToast } from '@/components/Toast';
 import type { EVMHarmonyTransport, EVMNetwork } from '@/onChain/wallets/evm';

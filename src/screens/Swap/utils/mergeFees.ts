@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BigNumber from 'bignumber.js';
 
 import type { SwapRouteTXStep } from '@/api/types';

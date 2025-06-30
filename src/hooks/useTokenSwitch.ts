@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmToken } from '@/realm/tokens';
 import { isTokenInGallery as isTokenInGalleryCheck, useTokensMutations } from '@/realm/tokens';
 import { useTokensGalleryMutations } from '@/realm/tokensGallery';

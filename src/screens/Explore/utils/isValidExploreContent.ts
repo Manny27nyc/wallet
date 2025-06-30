@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { ExploreContentRow } from '@/api/types';
 
 export const isValidContentRow = (row: unknown): row is ExploreContentRow => {

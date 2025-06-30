@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Transaction, TransactionEffect } from '@/api/types';
 import { parseCAIP19 } from '@/onChain/wallets/utils/ChainAgnostic';
 import type { CAIP19 } from '@/onChain/wallets/utils/ChainAgnostic';

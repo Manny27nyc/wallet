@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { IconName } from '@/components/SvgIcon';
 
 export const getExplorerIcon = (label: string): IconName => {

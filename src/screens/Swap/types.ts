@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SwapQuoteAsset, SwapRouteProvider, SwapRouteTXStep } from '@/api/types';
 import type { RealmToken } from '@/realm/tokens';
 import type { RemoteAsset } from '@/types';

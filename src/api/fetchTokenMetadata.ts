@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getHarmony } from '@/api/base/apiFactory';
 import type { TokenMetadata } from '@/api/types';
 import type { AssetMetadata } from '@/realm/assetMetadata';

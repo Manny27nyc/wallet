@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo } from 'react';
 
 import type { NETWORK_FILTER } from '@/components/NetworkFilter/types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { KrakenAssetNotSupported, KrakenTickerDict } from '@/api/krakenConnect/types';
 
 import { fetchKrakenPublicApi } from './base/fetchKrakenPublicApi';

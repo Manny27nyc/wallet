@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useNavigation } from '@react-navigation/native';
 import { useCallback, useEffect } from 'react';
 

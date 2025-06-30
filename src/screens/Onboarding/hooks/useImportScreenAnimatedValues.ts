@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { LayoutChangeEvent, LayoutRectangle } from 'react-native';
 
 import { useState } from 'react';

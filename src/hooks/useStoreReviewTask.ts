@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as StoreReview from 'expo-store-review';
 import { useCallback } from 'react';
 

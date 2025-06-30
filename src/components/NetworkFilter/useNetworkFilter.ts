@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useState } from 'react';
 
 import type { NETWORK_FILTER } from './types';

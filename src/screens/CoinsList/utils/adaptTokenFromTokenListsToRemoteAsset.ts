@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RemoteAsset } from '@/types';
 
 import { adaptTokenLikeToRemoteAsset } from '@/utils/adaptTokenLikeToRemoteAsset';

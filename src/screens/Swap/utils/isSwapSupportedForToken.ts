@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getImplForWallet } from '@/onChain/wallets/registry';
 import type { RealmToken } from '@/realm/tokens';
 

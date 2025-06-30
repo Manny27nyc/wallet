@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { WalletData } from '@/onChain/wallets/base';
 import { ethereumNetwork } from '@/onChain/wallets/evmNetworks';
 import { ChainAgnostic } from '@/onChain/wallets/utils/ChainAgnostic';

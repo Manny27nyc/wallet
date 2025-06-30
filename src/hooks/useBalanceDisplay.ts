@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useIsHideBalancesEnabled } from '@/realm/settings/useIsHideBalancesEnabled';
 
 export const useBalanceDisplay = (value: string | undefined | LocalizedString, count: number = 5): string => {

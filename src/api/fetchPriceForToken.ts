@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { FiatValue, TokenPrice } from '@/realm/tokenPrice';
 import { Currency } from '@/screens/Settings/currency/types';
 

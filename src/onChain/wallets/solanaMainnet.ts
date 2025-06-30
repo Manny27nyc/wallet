@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SolanaHarmonyTransport, SolanaNetwork, Solscan } from './solana';
 import { ChainAgnostic } from './utils/ChainAgnostic';
 

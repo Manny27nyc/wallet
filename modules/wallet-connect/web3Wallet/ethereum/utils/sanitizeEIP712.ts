@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { EIP712, EIP712TypeDefinitions } from '../types';
 
 function sanitizeObject(object: EIP712['message' | 'domain'], typeDefinition: EIP712TypeDefinitions, types: EIP712['types']): Record<string, unknown> {

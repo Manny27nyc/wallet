@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { NativeSyntheticEvent, TextInputFocusEventData } from 'react-native';
 
 import { useCallback } from 'react';

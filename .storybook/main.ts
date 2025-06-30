@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StorybookConfig } from '@storybook/react-native';
 
 const main: StorybookConfig = {

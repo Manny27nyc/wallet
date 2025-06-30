@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Keychain, { ACCESSIBLE, ACCESS_CONTROL, STORAGE_TYPE } from 'react-native-keychain';
 
 import type { KeychainKey } from './keys';

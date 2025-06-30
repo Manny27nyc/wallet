@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export type SupportedPrivateApiPaths =
   | '/0/private/BalanceEx'
   | '/0/private/WithdrawFee'

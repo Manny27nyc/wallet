@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useFocusEffect } from '@react-navigation/native';
 import isEmpty from 'lodash/isEmpty';
 import uniqBy from 'lodash/uniqBy';

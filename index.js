@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'react-native-reanimated'
 import { AppRegistry } from 'react-native';
 import { STORYBOOK_ENABLED } from '/config';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useWalletBackupSettings } from '@/hooks/useWalletBackupSettings';
 
 import { RealmSettingsKey } from './schema';

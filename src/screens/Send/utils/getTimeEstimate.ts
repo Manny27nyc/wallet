@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { addSeconds, formatDistanceStrict } from 'date-fns';
 
 import type { WalletType } from '@/onChain/wallets/registry';

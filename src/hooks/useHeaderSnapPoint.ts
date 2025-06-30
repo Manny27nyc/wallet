@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useHeaderHeight } from '@react-navigation/elements';
 import { useMemo } from 'react';
 import { useSafeAreaFrame } from 'react-native-safe-area-context';

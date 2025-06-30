@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const KRAKEN_CONNECT_PERMISSIONS = {
   funds_withdraw: true,
   withdrawal_address_update: true,

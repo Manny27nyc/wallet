@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { ReactElement } from 'react';
 import type { StyleProp, TextStyle, ViewStyle } from 'react-native';
 

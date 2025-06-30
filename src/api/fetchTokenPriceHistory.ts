@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { PriceHistoryPeriod, TokenPriceHistory } from '@/realm/tokenPrice';
 import { getPriceHistoryId } from '@/realm/tokenPrice/utils';
 import type { Currency } from '@/screens/Settings/currency';

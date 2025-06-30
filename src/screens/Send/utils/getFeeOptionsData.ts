@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { FeeOption, FeeOptionKind } from '@/api/types';
 import type { RealmishWallet } from '@/onChain/wallets/base';
 import { getImplForWallet } from '@/onChain/wallets/registry';

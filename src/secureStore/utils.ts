@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import DeviceInfo from 'react-native-device-info';
 
 import { decrypt, encrypt } from '@/utils/encryption';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import loc from '/loc';
 
 const KRAKEN_ADDRESS = 'kraken';

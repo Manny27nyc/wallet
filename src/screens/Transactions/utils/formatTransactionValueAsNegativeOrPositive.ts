@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TRANSACTION_TYPES } from '@/realm/transactions/const';
 
 const TRANSACTION_TYPES_FORMATTED_AS_NEGATIVE: string[] = [

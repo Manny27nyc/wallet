@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { format, isToday, isYesterday } from 'date-fns';
 
 import loc from '/loc';

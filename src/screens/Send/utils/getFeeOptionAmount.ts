@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { FeeOption } from '@/api/types';
 
 export const getFeeOptionAmount = (option: FeeOption): string => {

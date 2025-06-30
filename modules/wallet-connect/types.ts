@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { TransactionAmountProps } from '@/components/Transaction/TransactionAmount';
 import type { TRANSACTION_TYPES } from '@/realm/transactions/const';
 

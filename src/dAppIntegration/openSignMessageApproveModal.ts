@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmishWallet } from '@/onChain/wallets/base';
 import type { EVMHarmonyTransport, EVMNetwork } from '@/onChain/wallets/evm';
 

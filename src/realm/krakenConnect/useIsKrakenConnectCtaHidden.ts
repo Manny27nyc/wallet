@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCurrentAccountNumber } from '@/realm/accounts';
 
 import { useKrakenConnectAccountsConnected, useKrakenConnectDismissedCta } from './useKrakenConnectSettings';

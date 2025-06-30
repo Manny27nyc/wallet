@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { addEventListener } from '@react-native-community/netinfo';
 import { throttle } from 'lodash';
 import { useCallback, useEffect, useRef, useState } from 'react';

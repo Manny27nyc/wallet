@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { decode } from 'bip21';
 
 type BIP21Data = ReturnType<typeof decode>;

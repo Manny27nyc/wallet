@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { NativeTokenSymbol } from '@/onChain/wallets/base';
 import type { WalletType } from '@/onChain/wallets/registry';
 

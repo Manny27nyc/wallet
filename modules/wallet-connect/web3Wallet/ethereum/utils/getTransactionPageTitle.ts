@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SolanaRpcMethod } from '@/dAppIntegration/constants';
 import { TRANSACTION_TYPES } from '@/realm/transactions/const';
 

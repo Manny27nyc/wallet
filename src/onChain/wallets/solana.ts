@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as splToken from '@solana/spl-token';
 import * as web3 from '@solana/web3.js';
 import { ComputeBudgetProgram } from '@solana/web3.js';

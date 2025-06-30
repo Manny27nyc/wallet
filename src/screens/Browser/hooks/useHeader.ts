@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { GestureResponderEvent } from 'react-native';
 
 import { useRef } from 'react';

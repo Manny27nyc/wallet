@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { NftMetadata } from '@/realm/nftMetadata/schema';
 
 interface Labels {

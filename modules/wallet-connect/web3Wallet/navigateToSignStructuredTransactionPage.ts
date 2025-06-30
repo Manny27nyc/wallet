@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CommonActions } from '@react-navigation/native';
 
 import type { FeeOption } from '@/api/types';

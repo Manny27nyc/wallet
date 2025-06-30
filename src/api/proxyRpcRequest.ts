@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getHarmony } from '@/api/base/apiFactory';
 
 import type { components } from '/generated/harmony.ts';

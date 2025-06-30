@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect, useMemo, useRef } from 'react';
 
 import { fetchPriceForToken } from '@/api/fetchPriceForToken';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Alert } from 'react-native';
 
 import loc from '/loc';

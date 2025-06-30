@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Legacy_scriptPubKeyToAddress, SegwitBech32_scriptPubKeyToAddress, SegwitP2SH_scriptPubKeyToAddress } from './BlueElectrumExtensions';
 import { splitIntoChunks, ElectrumState } from './BlueElectrumTyped';
 const bitcoin = require('bitcoinjs-lib');

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getAvailableTokenBalance } from '@/realm/tokens';
 import { unitConverter } from '@/utils/unitConverter';
 

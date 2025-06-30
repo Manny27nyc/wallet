@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { components as gcComponents } from '/generated/groundcontrol';
 import type { components } from '/generated/harmony';
 

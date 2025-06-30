@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { arbitrumNetwork, baseNetwork, blastNetwork, inkNetwork } from '@/onChain/wallets/evmNetworks';
 
 export const defaultEvmChainIdByDomain: Record<string, number> = {

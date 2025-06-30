@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback } from 'react';
 import Config from 'react-native-config';
 import Realm from 'realm';

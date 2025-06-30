@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { EmitterSubscription } from 'react-native';
 
 import { DeviceEventEmitter, NativeModules, Platform } from 'react-native';

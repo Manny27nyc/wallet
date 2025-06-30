@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getUniqueId } from 'react-native-device-info';
 
 import { FUNDING_ADDR_KRAKEN_WALLET_IDENTIFIER } from '@/api/krakenConnect/consts';

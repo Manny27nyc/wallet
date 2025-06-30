@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as web3 from '@solana/web3.js';
 import bs58 from 'bs58';
 

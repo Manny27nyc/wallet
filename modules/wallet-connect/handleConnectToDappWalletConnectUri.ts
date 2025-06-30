@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SecuredKeychainContext } from '@/secureStore/SecuredKeychainProvider';
 
 import type Realm from 'realm';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { compact } from 'lodash';
 import { useMemo } from 'react';
 

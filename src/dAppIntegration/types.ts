@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { PublicKey, SendOptions, Transaction, VersionedTransaction } from '@solana/web3.js';
 
 export type EventEmitterListener = (...args: any[]) => void;

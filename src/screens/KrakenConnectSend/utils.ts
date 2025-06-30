@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BitcoinKrakenConnect } from '@/onChain/wallets/bitcoin';
 import { arbitrumNetwork, ethereumNetwork, inkNetwork, lineaNetwork, optimismNetwork, polygonNetwork } from '@/onChain/wallets/evmNetworks';
 import { Networks, type WalletType } from '@/onChain/wallets/registry';

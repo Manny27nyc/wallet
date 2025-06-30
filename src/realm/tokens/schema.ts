@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { REALM_TYPE_ASSET_MARKET_DATA } from '../assetMarketData';
 import { REALM_TYPE_ASSET_METADATA } from '../assetMetadata';
 import { REALM_TYPE_TOKEN_PRICE } from '../tokenPrice';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isEIP712 } from './isEIP712';
 
 export function areMessageRequestParamsValid(requestParams: any): boolean {

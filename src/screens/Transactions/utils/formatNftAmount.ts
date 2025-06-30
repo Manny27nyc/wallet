@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TRANSACTION_TYPES } from '@/realm/transactions/const';
 import type { Currency } from '@/screens/Settings/currency';
 import { formatTokenAmount } from '@/utils/formatTokenAmount';

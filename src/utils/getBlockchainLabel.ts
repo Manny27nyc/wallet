@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getImplForType } from '@/onChain/wallets/registry';
 import { type WalletType } from '@/onChain/wallets/registry';
 

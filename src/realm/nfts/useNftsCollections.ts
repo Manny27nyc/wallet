@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { groupBy } from 'lodash';
 import { useMemo } from 'react';
 

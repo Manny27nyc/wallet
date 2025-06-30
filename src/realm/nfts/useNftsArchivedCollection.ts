@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ARCHIVED_NFT } from './consts';
 
 import { useNfts } from './useNfts';

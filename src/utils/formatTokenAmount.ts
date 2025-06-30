@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Currency, CurrencyInfo } from '@/screens/Settings/currency/types';
 import { getCurrencyInfo } from '@/screens/Settings/currency/types';
 

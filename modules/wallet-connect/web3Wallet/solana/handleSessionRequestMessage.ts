@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import bs58 from 'bs58';
 
 import { showToast } from '@/components/Toast';

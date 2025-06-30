@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { RealmDefi } from '@/realm/defi/schema';
 import { REALM_TYPE_DEFI } from '@/realm/defi/schema';
 import { useObject } from '@/realm/RealmContext';

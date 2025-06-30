@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './useNftsMutations';
 export * from './useNfts';
 export * from './useNftById';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isObject } from 'lodash';
 
 import type { EIP712 } from '../types';

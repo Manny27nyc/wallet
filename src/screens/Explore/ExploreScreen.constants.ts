@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Dimensions } from 'react-native';
 
 const windowWidth = Dimensions.get('window').width;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { TokenReputation } from '@/api/types';
 import type { AssetReputation } from '@/realm/assetMetadata';
 

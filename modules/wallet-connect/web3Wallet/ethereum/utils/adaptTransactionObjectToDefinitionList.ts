@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Network } from '@/onChain/wallets/base';
 import { smallUnit2TokenUnit } from '@/utils/unitConverter';
 

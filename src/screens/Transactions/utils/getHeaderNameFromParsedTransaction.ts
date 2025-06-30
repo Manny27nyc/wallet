@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Transaction } from '@/api/types';
 import type { BTCTransaction } from '@/onChain/wallets/bitcoin';
 

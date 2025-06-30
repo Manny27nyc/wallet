@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type * as web3 from '@solana/web3.js';
 
 export enum WALLET_CONNECT_SOLANA_SIGN_TYPES {

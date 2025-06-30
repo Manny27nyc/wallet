@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { SuperBigNumber } from '@/utils/SuperBigNumber';
 import { unitConverter } from '@/utils/unitConverter';
 

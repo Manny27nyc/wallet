@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Realm from 'realm';
 
 import type { WalletAddressCacheItem, WalletState } from '@/realm/wallets';

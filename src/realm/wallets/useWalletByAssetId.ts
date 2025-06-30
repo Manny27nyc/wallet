@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { keyBy } from 'lodash';
 
 import { getNetworkNameFromAssetId } from '@/realm/tokens';

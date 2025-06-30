@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Network, WalletData } from '@/onChain/wallets/base';
 
 export function getWalletDataByAccount(seed: ArrayBuffer, network: Network, accountIndex: number): WalletData {

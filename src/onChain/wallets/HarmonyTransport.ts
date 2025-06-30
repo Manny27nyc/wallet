@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { chunk, compact } from 'lodash';
 
 import type { DefaultApi } from '@/api/base/apiFactory';

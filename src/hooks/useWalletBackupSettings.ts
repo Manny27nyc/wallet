@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo } from 'react';
 
 import { RealmSettingsKey, useSettingsByKey, useSettingsMutations } from '@/realm/settings';

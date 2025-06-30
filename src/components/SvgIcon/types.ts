@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export type IconName =
   | 'wallet'
   | 'shield-tick'

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function getHttpsUrl(url: string): string | null {
   let parsedUrl: URL;
 

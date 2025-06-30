@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromPairs } from 'lodash';
 import { Platform, Vibration } from 'react-native';
 import ReactNativeHapticFeedback from 'react-native-haptic-feedback';

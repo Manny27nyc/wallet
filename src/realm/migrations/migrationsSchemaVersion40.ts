@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as RNLocalize from 'react-native-localize';
 import Realm from 'realm';
 

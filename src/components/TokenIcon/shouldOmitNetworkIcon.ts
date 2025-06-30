@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { omitNetworkIcons } from './constants';
 
 import type { TokenIconProps } from './TokenIconProps';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useRef } from 'react';
 
 import { fetchDefiPositions } from '@/api/fetchDefiPositions';

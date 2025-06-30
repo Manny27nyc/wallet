@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import crypto from 'crypto';
 
 import { KRAKEN_CONNECT_API_SCOPES } from '@/api/krakenConnect/consts';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback } from 'react';
 
 import { ALL_MAINNET_COINS, DEFAULT_GALLERY_COINS } from '@/onChain/wallets/registry';

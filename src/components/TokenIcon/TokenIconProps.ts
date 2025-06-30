@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { StyleProp, ViewStyle } from 'react-native';
 
 import type { WalletType } from '@/onChain/wallets/registry';

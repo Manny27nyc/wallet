@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { REALM_TYPE_SETTINGS } from './schema';
 
 import type { RealmSettings, SettingsType } from './schema';

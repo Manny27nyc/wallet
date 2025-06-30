@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = {
   plugins: ['prettier', 'jest', 'test-id'],
   extends: ['plugin:jsx-a11y/recommended', 'plugin:react/jsx-runtime'],

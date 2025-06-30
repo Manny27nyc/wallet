@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo } from 'react';
 
 import { type KrakenConnectSettings, type KrakenConnectSettingsType, REALM_TYPE_KRAKEN_CONNECT_SETTINGS } from '@/realm/krakenConnect/schema';

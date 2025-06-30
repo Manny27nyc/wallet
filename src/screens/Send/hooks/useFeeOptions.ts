@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect, useMemo, useState } from 'react';
 
 import type { FeeOptionKind } from '@/api/types';

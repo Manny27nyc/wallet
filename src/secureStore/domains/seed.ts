@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { loadMnemonicSlow } from '@/utils/loadMnemonicSlow';
 
 import { KeychainKey, setInKeychain } from '../keychain';
